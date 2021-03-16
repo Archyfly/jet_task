@@ -1,5 +1,5 @@
-<b>Ruby only <br />
-    Use main.rb in console for start program.
+<b>
+    Use main.rb
 </b>
 
 Предметная область:
